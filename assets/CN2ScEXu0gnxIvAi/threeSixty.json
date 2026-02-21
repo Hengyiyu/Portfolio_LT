@@ -1,0 +1,225 @@
+{
+  "version": "3.80.31058.0",
+  "course_id": "65oa7e2HmoC",
+  "title": "Programming for Beginners - Topic 1",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Programming for beginner"
+    },
+    {
+      "title": "UI Kit"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5Y33B1atUnJ",
+      "title": "Landing page",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5dY38pYOZK0",
+      "title": "Opening",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5lOYG6QB0et",
+      "title": "Table of Contents",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5Up6giedkXR",
+      "title": "What is Programming?",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6UQEf00p2Nh",
+      "title": "How to solve a problem",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5nts4tHVb7n",
+      "title": "Solving a problem with Python",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6rpWywN1bVG",
+      "title": "Understand the Problem",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6O54JRrHWnn",
+      "title": "identify the inputs, processes, and outputs",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "5uqsXm4yS2q",
+      "title": "Drag and Drop",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6NV5grjFovO",
+      "title": "What is being input?",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "67Nznx3GmOi",
+      "title": "What is being processed and output?",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "6ds6Zn3OV1T",
+      "title": "Design a Solution",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "5nVGfcGKV4S",
+      "title": "Drag and Drop",
+      "scene_index": "1.13"
+    },
+    {
+      "id": "5g7FUUDDegB",
+      "title": "Why use PYTHON?",
+      "scene_index": "1.14"
+    },
+    {
+      "id": "6PhC4pBzINY",
+      "title": "Converting the pseudocode to Python",
+      "scene_index": "1.15"
+    },
+    {
+      "id": "6cihXgM1hWY",
+      "title": "Basic layout, comments, variables, input, and output",
+      "scene_index": "1.16"
+    },
+    {
+      "id": "6EmWz5Q2HqU",
+      "title": "Functions",
+      "scene_index": "1.17"
+    },
+    {
+      "id": "5XCgcDiWIfY",
+      "title": "Recap",
+      "scene_index": "1.18"
+    },
+    {
+      "id": "6hp6cOxiruV",
+      "title": "Which Python function is used to output text and variables on screen?",
+      "scene_index": "1.19"
+    },
+    {
+      "id": "5wpGzTPXpDZ",
+      "title": "Which Python function is used to get user input and store it in a variable?",
+      "scene_index": "1.20"
+    },
+    {
+      "id": "65Yfd6haly6",
+      "title": "Which of these variable names is written in \"snakecase\"?",
+      "scene_index": "1.21"
+    },
+    {
+      "id": "5lRoyJgWBCk",
+      "title": "What does the special character \"\\n\" do?",
+      "scene_index": "1.22"
+    },
+    {
+      "id": "6Hlj5xFmHto",
+      "title": "Which of the following symbols is used to create a comment in Python?",
+      "scene_index": "1.23"
+    },
+    {
+      "id": "6WoUypvahhL",
+      "title": "Converting pseudocode",
+      "scene_index": "1.24"
+    },
+    {
+      "id": "5pvSNOVHVs9",
+      "title": "What is an IDE?",
+      "scene_index": "1.25"
+    },
+    {
+      "id": "5ZamvirfpiS",
+      "title": "Choose your IDE",
+      "scene_index": "1.26"
+    },
+    {
+      "id": "6Myr6BKE7N9",
+      "title": "Converting pseudocode",
+      "scene_index": "1.27"
+    },
+    {
+      "id": "6KIA0nTPgLT",
+      "title": "Test2",
+      "scene_index": "1.28"
+    },
+    {
+      "id": "6R29bGdaRZa",
+      "title": "Converting pseudocode",
+      "scene_index": "1.29"
+    },
+    {
+      "id": "6OUVTuICfba",
+      "title": "What is an IDE?",
+      "scene_index": "1.30"
+    },
+    {
+      "id": "6eF38rKKRbY",
+      "title": "Which is a disadvantage of an IDE?",
+      "scene_index": "1.31"
+    },
+    {
+      "id": "5sFedTmDdNH",
+      "title": "What is an \"interactive\" shell?",
+      "scene_index": "1.32"
+    },
+    {
+      "id": "6DiAR1g5kU5",
+      "title": "Using an IDE?",
+      "scene_index": "1.33"
+    },
+    {
+      "id": "6gC98kg9Ugm",
+      "title": "Lesson 1 - Key Takeaways",
+      "scene_index": "1.34"
+    },
+    {
+      "id": "5fluwACzsob",
+      "title": "What’s next?",
+      "scene_index": "1.35"
+    },
+    {
+      "id": "5yBfVr0KSVH",
+      "title": "Pop-up Window",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6pviMmaCUZ8",
+      "title": "Pop-up Window",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5xidxtVQyzl",
+      "title": "Untitled Slide",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5vDNrqccYJe",
+      "title": "Untitled Slide",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "5v38NF3YxQs",
+      "title": "Untitled Slide",
+      "scene_index": "2.5"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
